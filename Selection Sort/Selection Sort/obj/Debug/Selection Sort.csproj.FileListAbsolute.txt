@@ -1,0 +1,6 @@
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe.config
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csprojResolveAssemblyReference.cache
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Selection Sort\Selection Sort\obj\Debug\Selection Sort.exe
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Selection Sort\Selection Sort\obj\Debug\Selection Sort.pdb
