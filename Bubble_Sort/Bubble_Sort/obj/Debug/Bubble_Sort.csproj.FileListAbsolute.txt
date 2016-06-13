@@ -1,0 +1,6 @@
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.exe.config
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.exe
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.pdb
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.csprojResolveAssemblyReference.cache
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.exe
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.pdb
