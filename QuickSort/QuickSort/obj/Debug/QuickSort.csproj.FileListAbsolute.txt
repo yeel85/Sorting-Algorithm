@@ -1,0 +1,6 @@
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\enj2\Documents\Visual Studio 2015\Projects\Hello_world\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
